@@ -5,9 +5,9 @@ Spyder Editor
 Este é um arquivo de script temporário.
 """
 
-#Exercicio 1 - Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+#Exercicio 1 - Faça um Programa que mostre a mensagem "Alô mundo" na tela.
 
-    x = "Alo mundo"
+    x = "Alô mundo"
     print(x)
 
 #Exercicio 2 - Faça um Programa que peça um número e então mostre a mensagem O número informado foi [número].
@@ -50,7 +50,7 @@ Este é um arquivo de script temporário.
           
           converteMetro ()
     
-#Exercício 6 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área       
+#Exercício 6 - Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.       
 
     
     def area_circulo ():
@@ -141,7 +141,7 @@ Este é um arquivo de script temporário.
                         
 #Exercicio 13 - praticamente identico ao 12
                         
-#Exercicio 14 - Texto muito longo. Olhar no site.
+#Exercicio 14 - Texto muito longo. Olhar no site: https://wiki.python.org.br/EstruturaSequencial
                         
                         def joaopescador ():
                           variavelPeso = int(input("Digite a quantidade de quilos da pesca "))
@@ -156,7 +156,7 @@ Este é um arquivo de script temporário.
                                                    
                         joaopescador ()    
 
-#Exercicio 15 - Texto muito longo. Olhar no site.
+#Exercicio 15 - Texto muito longo. Olhar no site: https://wiki.python.org.br/EstruturaSequencial
 
                 IR = 11
                 INSS = 8
@@ -237,7 +237,7 @@ Este é um arquivo de script temporário.
                                    
                   salarioLiquido ()
 
-#Exercicio 16 - Texto muito longo. Olhar no site.    
+#Exercicio 16 - Texto muito longo. Olhar no site: https://wiki.python.org.br/EstruturaSequencial   
                   
                   def calculalitros():
                     areaAp = float(input("Informe quantos m2 tem seu ap "))
@@ -251,7 +251,7 @@ Este é um arquivo de script temporário.
                     calculalitros()
                  
                 
-#Exercicio 17 - Texto muito longo. Olhar no site.   
+#Exercicio 17 - Texto muito longo. Olhar no site: https://wiki.python.org.br/EstruturaSequencial
                   
                   #A) Litros e gastos: comprar apenas latas de 18 litros;
                   
@@ -285,6 +285,6 @@ Este é um arquivo de script temporário.
                     
                     calculalitros()
                     
-                  #C) Litros e gastos: Misturar latas e galoes e arredondar valores. Acrescentar 10% de folga. 
+                 
                   
                   
