@@ -34,3 +34,11 @@ a = int(input())
 b = int(input())
 PROD = a*b
 print("PROD =", PROD)
+
+#1005
+A = float(input())
+A = A*3.5
+B = float(input())
+B = B*7.5
+MEDIA = (A+B)/(3.5+7.5)
+print("MEDIA = %.5f"% MEDIA)
